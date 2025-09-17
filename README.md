@@ -1,0 +1,2 @@
+# analise_filmes
+Neste projeto, o objetivo foi analisar um conjunto de dados com 50.000 avaliações de filmes para entender a distribuição de sentimentos entre o público. O processo incluiu a limpeza e análise exploratória dos dados, focando em identificar as principais palavras-chave associadas a avaliações positivas e negativas. Para a análise, utilizei as bibliotecas Pandas, Matplotlib e Seaborn no Python.
